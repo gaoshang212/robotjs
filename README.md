@@ -28,7 +28,7 @@ This is a work in progress so the exported functions could change at any time be
 Install RobotJS using npm:
 
 ```
-npm install robotjs
+npm install gsof-robotjs
 ```
 It's that easy! npm will download one of the prebuilt [binaries](https://github.com/octalmage/robotjs/releases/latest) for your OS.
 
